@@ -1,0 +1,5 @@
+mode é uma string opcional que especifica o modo em que o arquivo será aberto. 
+O padrão é "rt", que significa aberto para leitura em modo de texto. 
+Outros valores comuns são "wt" para escrever um arquivo de texto (truncando o arquivo se ele já existir).
+E "at" para anexar ao final de um arquivo de texto.
+
